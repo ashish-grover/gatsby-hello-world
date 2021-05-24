@@ -131,9 +131,11 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <title>Home Page</title>
       <h1 style={headingStyles}>
-        Congratulations
+        Congratulations Ashish!
         <br />
-        <span style={headingAccentStyles}>— you just made a Gatsby site! </span>
+        <span style={headingAccentStyles}>
+          — you just made your first `hello-world` Gatsby site!{" "}
+        </span>
         <span role="img" aria-label="Party popper emojis">
           🎉🎉🎉
         </span>
